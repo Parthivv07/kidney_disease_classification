@@ -1,7 +1,7 @@
 # kidney_disease_classification
 
 
-##workflow
+## workflows
 1. update the config.yaml
 2. update the secrets.yaml(optional)
 3. update the params.yaml
